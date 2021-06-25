@@ -2,9 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wuxin20642.github.io/cola_shi.github.io/categories/</loc>
+    <loc>https://wuxin20642.github.io/cola_shi.github.io/post/first/</loc>
+    <lastmod>2021-06-25T10:20:33+08:00</lastmod>
   </url><url>
     <loc>https://wuxin20642.github.io/cola_shi.github.io/</loc>
+    <lastmod>2021-06-25T10:20:33+08:00</lastmod>
+  </url><url>
+    <loc>https://wuxin20642.github.io/cola_shi.github.io/post/</loc>
+    <lastmod>2021-06-25T10:20:33+08:00</lastmod>
+  </url><url>
+    <loc>https://wuxin20642.github.io/cola_shi.github.io/about/</loc>
+    <lastmod>2021-06-25T10:19:29+08:00</lastmod>
+  </url><url>
+    <loc>https://wuxin20642.github.io/cola_shi.github.io/categories/</loc>
   </url><url>
     <loc>https://wuxin20642.github.io/cola_shi.github.io/tags/</loc>
   </url>
